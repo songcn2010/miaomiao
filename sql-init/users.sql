@@ -1,0 +1,1 @@
+truncate table users;INSERT into users (username, password, email) values ('songcn2010','songchao','659909599@qq.com');
